@@ -1,5 +1,7 @@
 # Skedula
 
+--EDUTECH
+
 PROFILES OF USERS
 
 1.Register or log in (using Google or email for authentication)
